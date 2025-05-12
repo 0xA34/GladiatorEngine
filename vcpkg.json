@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "glfw3",
+    "vulkan-headers",
+    "vulkan-sdk-components",
+    "stb"
+  ]
+}
